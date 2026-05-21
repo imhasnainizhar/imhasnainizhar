@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Hasnain%20Izhar]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20·%20AI%20Engineer%20·%20Problem%20Obsessed&descAlignY=60&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Hasnain%20Izhar%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20·%20AI%20Engineer%20·%20Problem%20Obsessed&descAlignY=60&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Solve+the+problem.+Money+will+chase+you.;Full+Stack+%2B+AI+Engineer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Self-taught.+No+degree.+Just+obsession.;Building+for+myself+and+the+world.)](https://git.io/typing-svg)
 
