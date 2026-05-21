@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thehasnainizhar)
 [![AI/ML](https://img.shields.io/badge/AI%2FML-Engineer-7c3aed?style=for-the-badge&logo=openai&logoColor=white)](https://thehasnainizhar.com)
 [![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://thehasnainizhar.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=thehasnainizhar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/thehasnainizhar)
+[![Profile Views](https://komarev.com/ghpvc/?username=thehasnainizhar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/imhasnainizhar)
 
 </div>
 
