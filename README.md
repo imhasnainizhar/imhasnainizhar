@@ -8,6 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thehasnainizhar)
 [![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://thehasnainizhar.com)
 
+</div>
+
 ---
 
 ## `> whoami`
