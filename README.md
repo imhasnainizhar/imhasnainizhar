@@ -86,37 +86,6 @@ I craft **custom Shopify Liquid templates** that help new businesses launch, loo
 
 > *"No university required. Just Curiosity, AI Agents, Laptop and Starlink."*
 
----
-
-## `> github_stats`
- 
-<div align="center">
-
-<!-- Stats + Languages Row -->
-<table>
-  <tr>
-    <td width="60%">
-      <img src="https://github-readme-stats-imhasnainizhar.vercel.app/api?username=imhasnainizhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started,prs_merged" width="100%" />
-    </td>
-    <td width="40%">
-      <img src="https://github-readme-stats-imhasnainizhar.vercel.app/api/top-langs/?username=imhasnainizhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&hide=html,css,dockerfile,shell" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=imhasnainizhar&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6e6e9e&currStreakNum=ffffff&sideNums=a78bfa" width="70%" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imhasnainizhar&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=imhasnainizhar&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=4&row=2" />
-
-</div>
-
----
-
 ## `> philosophy`
 
 ```
