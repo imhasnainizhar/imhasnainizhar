@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Hasnain%20Izhar%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20·%20AI%20Engineer%20·%20Problem%20Obsessed&descAlignY=60&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Hasnain%20Izhar%20👋&fontSize=42&fontColor=ffffff&fontA[...])
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Solve+the+problem.+Money+will+chase+you.;Full+Stack+%2B+AI+Engineer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Self-taught.+No+degree.+Just+obsession.;Building+for+myself+and+the+world.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Solve+the+problem.+Money+will+chase+you.;Full[...])
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thehasnainizhar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thehasnainizhar)
@@ -36,14 +36,15 @@ That's the loop — and I haven't stopped it yet.
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,python,cpp,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,python,cpp,dart,go,java,kotlin&theme=dark" />
   <img src="https://img.shields.io/badge/Carbon_Lang-⚡_Watching_Closely-1a1a2e?style=flat-square&logoColor=white" height="48"/>
 </p>
 
 ### Frameworks & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,tensorflow,pytorch,docker,postgres,shopify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,tensorflow,pytorch,docker,postgres,shopify,spring,mongodb,pandas,numpy&theme=dark" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
 </p>
 
 ---
@@ -52,7 +53,7 @@ That's the loop — and I haven't stopped it yet.
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  🌐  Full Stack Web & App     — end-to-end products & mobil  │
+│  🌐  Full Stack Web & App     — end-to-end products & mobile │
 │  🛍️  Shopify Liquid           — storefronts that convert     │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -108,7 +109,7 @@ I love to work with like-minded people and businesses:
 - 🤖 **AI Engineering** — integrations, fine-tuning, pipelines
 - 💡 **Consulting** — architecture, tech strategy
 
-📬 **[thehasnainizhar.com](https://thehasnainizhar.com)** · **[me@thehasnainizhar.com](me@thehasnainizhar.com)**
+📬 **[thehasnainizhar.com](https://thehasnainizhar.com)** · **[me@thehasnainizhar.com](mailto:me@thehasnainizhar.com)**
 
 ---
 
