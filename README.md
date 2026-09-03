@@ -36,19 +36,14 @@ That's the loop — and I haven't stopped it yet.
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,python,cpp,dart,go,java,kotlin&theme=dark" />
-  <a href="https://github.com/carbon-language/carbon-lang"><img src="https://cdn.simpleicons.org/carbon/ffffff" alt="Carbon language" height="48"/></a>
+  <img src="https://skillicons.dev/icons?i=ts,python,cpp,dart&theme=dark" />
+  <img src="https://img.shields.io/badge/Carbon_Lang-⚡_Watching_Closely-1a1a2e?style=flat-square&logoColor=white" height="48"/>
 </p>
 
 ### Frameworks & Tools
 
 <p align="left">
-  <!-- primary tools via Skillicons -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,tensorflow,pytorch,docker,postgres,shopify,spring,mongodb&theme=dark" />
-  <!-- data science libs and vector DB via SimpleIcons for reliable logos -->
-  <img src="https://cdn.simpleicons.org/pandas/ffffff" alt="pandas" height="48" style="margin-left:8px;" />
-  <img src="https://cdn.simpleicons.org/numpy/ffffff" alt="numpy" height="48" style="margin-left:8px;" />
-  <img src="https://cdn.simpleicons.org/pinecone/ffffff" alt="Pinecone" height="48" style="margin-left:8px;" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,tensorflow,pytorch,docker,postgres,shopify&theme=dark" />
 </p>
 
 ---
@@ -57,7 +52,7 @@ That's the loop — and I haven't stopped it yet.
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  🌐  Full Stack Web & App     — end-to-end products & mobile │
+│  🌐  Full Stack Web & App     — end-to-end products & mobil  │
 │  🛍️  Shopify Liquid           — storefronts that convert     │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -113,7 +108,7 @@ I love to work with like-minded people and businesses:
 - 🤖 **AI Engineering** — integrations, fine-tuning, pipelines
 - 💡 **Consulting** — architecture, tech strategy
 
-📬 **[thehasnainizhar.com](https://thehasnainizhar.com)** · **[me@thehasnainizhar.com](mailto:me@thehasnainizhar.com)**
+📬 **[thehasnainizhar.com](https://thehasnainizhar.com)** · **[me@thehasnainizhar.com](me@thehasnainizhar.com)**
 
 ---
 
