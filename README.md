@@ -43,8 +43,12 @@ That's the loop — and I haven't stopped it yet.
 ### Frameworks & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,tensorflow,pytorch,docker,postgres,shopify,spring,mongodb,pandas,numpy&theme=dark" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+  <!-- primary tools via Skillicons -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,tensorflow,pytorch,docker,postgres,shopify,spring,mongodb&theme=dark" />
+  <!-- data science libs and vector DB via SimpleIcons for reliable logos -->
+  <img src="https://cdn.simpleicons.org/pandas/ffffff" alt="pandas" height="48" style="margin-left:8px;" />
+  <img src="https://cdn.simpleicons.org/numpy/ffffff" alt="numpy" height="48" style="margin-left:8px;" />
+  <img src="https://cdn.simpleicons.org/pinecone/ffffff" alt="Pinecone" height="48" style="margin-left:8px;" />
 </p>
 
 ---
