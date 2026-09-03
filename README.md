@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Hasnain%20Izhar%20👋&fontSize=42&fontColor=ffffff&fontA[...])
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Hasnain%20Izhar%20👋&fontSize=42&fontColor=ffffff&fontAlpha=1.0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Solve+the+problem.+Money+will+chase+you.;Full[...])
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Solve+the+problem.+Money+will+chase+you.;Full+Stack+Engineer+%26+AI+Enthusiast;Shipping+constantly.)](https://github.com/imhasnainizhar)
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thehasnainizhar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thehasnainizhar)
@@ -52,7 +52,7 @@ That's the loop — and I haven't stopped it yet.
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  🌐  Full Stack Web & App     — end-to-end products & mobil  │
+│  🌐  Full Stack Web & App     — end-to-end products & mobile │
 │  🛍️  Shopify Liquid           — storefronts that convert     │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -108,7 +108,7 @@ I love to work with like-minded people and businesses:
 - 🤖 **AI Engineering** — integrations, fine-tuning, pipelines
 - 💡 **Consulting** — architecture, tech strategy
 
-📬 **[thehasnainizhar.com](https://thehasnainizhar.com)** · **[me@thehasnainizhar.com](me@thehasnainizhar.com)**
+📬 **[thehasnainizhar.com](https://thehasnainizhar.com)** · **[me@thehasnainizhar.com](mailto:me@thehasnainizhar.com)**
 
 ---
 
