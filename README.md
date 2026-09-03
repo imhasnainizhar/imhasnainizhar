@@ -37,7 +37,7 @@ That's the loop — and I haven't stopped it yet.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,python,cpp,dart,go,java,kotlin&theme=dark" />
-  <img src="https://img.shields.io/badge/Carbon_Lang-⚡_Watching_Closely-1a1a2e?style=flat-square&logoColor=white" height="48"/>
+  <a href="https://github.com/carbon-language/carbon-lang"><img src="https://cdn.simpleicons.org/carbon/ffffff" alt="Carbon language" height="48"/></a>
 </p>
 
 ### Frameworks & Tools
