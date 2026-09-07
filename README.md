@@ -12,7 +12,7 @@
 
 ---
 
-> `whoami`
+## `> whoami`
 
 ```ts
 const engineer = {
@@ -38,9 +38,7 @@ const engineer = {
 };
 ```
 
-I like understanding how things work, building useful things, and following interesting questions wherever they lead.
-
-**Explore → Understand → Build → Solve → Repeat.**
+I love understanding how things work, building useful things, and following interesting questions wherever they lead.
 
 ---
 
@@ -88,34 +86,25 @@ I like understanding how things work, building useful things, and following inte
 
 ---
 
-## `> interests`
+## `> loves_in_life`
 
 ```text
-Exploring life
+Loving
 │
-├── 🧮 Mathematics
-├── ⚛️ Physics
-├── ⚙️ Engineering
-├── 💻 Computer Science
-├── 🤖 AI & Robotics
-├── 🎮 Gaming
+├── 🥰 Life & Her
+├── 🧭 Exploration
 └── 🧠 Philosophy
 ```
-
-I enjoy moving between disciplines, learning what I need, and connecting ideas that normally live in different places.
 
 ---
 
 ## `> philosophy`
 
 ```text
-Explore continuously.
-Solve continuously.
+I enjoy connecting ideas that normally live in different places. 
 
-Stay curious.
-Build things.
-Question assumptions.
-Keep moving.
+Math is a language. Physics is where that language
+describes reality. Computer science is boolean logic.
 ```
 
 ---
