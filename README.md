@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Hasnain%20Izhar%20👋&fontSize=42&fontColor=ffffff&fontAlpha=1.0)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f0c29,50:302b63,100:24243e\&height=200\&section=header\&text=Hey,%20I'm%20Hasnain%20Izhar%20👋\&fontSize=42\&fontColor=ffffff\&fontAlpha=1.0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=U+solve+the+problem.+Prople+pay+everything.;Claude+makes+the+real+vibe+for+me.;Love+Baby+Girl,+Code+and+Coffee+Togather.)](https://github.com/imhasnainizhar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&width=600\&lines=Explore+continuously.+Solve+continuously.;Claude+makes+the+real+vibe+for+me.;Code,+Coffee,+Games+and+Curiosity.)](https://github.com/imhasnainizhar)
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thehasnainizhar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thehasnainizhar)
-[![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://thehasnainizhar.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/thehasnainizhar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/thehasnainizhar)
+[![Website](https://img.shields.io/badge/Website-302b63?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://thehasnainizhar.com)
 
 </div>
 
@@ -18,16 +18,34 @@
 const engineer = {
   identity   : "Full Stack + AI Engineer",
   location   : "Islamabad, Pakistan 🇵🇰",
-  philosophy : "Solve the problem. Money will chase you.",
+  philosophy : "Explore continuously. Solve continuously.",
   education  : "Self-taught · A-Levels",
-  currently  : ["building products", "studying  AI/ML"],
-  available  : "Working with like-minded and businesses → thehasnainizhar.com",
+  currently  : [
+    "building products",
+    "exploring data science & ML",
+    "learning systems & robotics"
+  ],
+  interests  : [
+    "software",
+    "AI/ML",
+    "robotics",
+    "physics",
+    "philosophy",
+    "gaming"
+  ],
 };
 ```
 
-I don't wait for a degree to tell me I'm ready.  
-I pick a problem, I study what I need, I build.  
-That's the loop — and I haven't stopped it yet.
+I don't wait for a degree to tell me I'm ready.
+I pick a problem, explore the space, learn what I need, and build.
+
+Sometimes that means writing software.
+Sometimes it means reading a research paper, experimenting with a model,
+understanding how a system works, or simply following an interesting question.
+
+That's the loop:
+
+**Explore → Understand → Build → Solve → Repeat.**
 
 ---
 
@@ -36,24 +54,37 @@ That's the loop — and I haven't stopped it yet.
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,python,cpp,dart&theme=dark" />
-  <img src="https://img.shields.io/badge/Carbon_Lang-⚡_Watching_Closely-1a1a2e?style=flat-square&logoColor=white" height="48"/>
+  <img src="https://skillicons.dev/icons?i=ts,python,cpp,go,dart,rust,kotlin&theme=dark" />
 </p>
 
 ### Frameworks & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,tensorflow,pytorch,docker,postgres,shopify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,docker,postgres,tensorflow,pytorch&theme=dark" />
+</p>
+
+### AI / Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ---
 
 ## `> domains`
 
-```
+```text
 ┌──────────────────────────────────────────────────────────────┐
-│  🌐  Full Stack Web & App     — end-to-end products & mobile │
-│  🛍️  Shopify Liquid           — storefronts that convert     │
+│  🌐  Full Stack Development    — end-to-end products & APIs  │
+│  📱  Cross-Platform Mobile     — apps with shared codebases  │
+│  🤖  AI / ML                   — models, agents & pipelines  │
+│  📊  Data Science              — data, analysis & learning   │
+│  ⚙️  Systems & Engineering     — low-level & infrastructure  │
+│  🎮  Gaming                    — enthusiast & curious dev    │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -61,52 +92,112 @@ That's the loop — and I haven't stopped it yet.
 
 ## `> what_i'm_building`
 
-I don't just write code for clients.  
-I build things that solve **my own problems first** — then I open the door for the world to use them.
+I don't just write code.
 
-If something frustrates me enough, I'll build a fix.  
-If that fix helps others, even better.
+I like turning ideas, frustrations, and interesting problems into working systems.
 
----
+Sometimes it's a product.
+Sometimes it's an experiment.
+Sometimes it's something that exists simply because I wanted to understand **how it works**.
 
-## `> shopify`
-
-I craft **custom Shopify Liquid templates** that help new businesses launch, look credible, and sell globally from day one — without the enterprise budget. Clean code, fast stores, real results.
-
-→ **[See my services](https://thehasnainizhar.com)**
+I build for myself first, then open the door for others when the result is worth sharing.
 
 ---
 
-## `> currently_studying`
+## `> full_stack`
 
-- 🧠  AI / ML
-- 🤖 Reinforcement Learning & Robotics fundamentals
-- 🧬 Neural Architecture research papers
-- ⚡ Carbon language — betting early on the future of systems
+I build end-to-end applications — from interfaces and interactions to APIs, databases, authentication, infrastructure, and deployment.
 
-> *"No university required. Just Curiosity, AI Agents, Laptop and Starlink."*
+My focus isn't being attached to a particular framework.
+
+It's understanding the system well enough to choose the right tool for the problem.
+
+---
+
+## `> mobile`
+
+Exploring **cross-platform mobile development** and building applications that share logic while still feeling native to the platform.
+
+Currently interested in the intersection of mobile, AI, real-time systems, and good product design.
+
+---
+
+## `> exploring_data_science`
+
+Currently diving deeper into:
+
+* 📊 Data analysis & visualization
+* 🧮 Numerical computing
+* 🐼 Pandas & NumPy
+* 🧠 Machine Learning
+* 🔥 PyTorch & TensorFlow
+* 🤖 Reinforcement Learning
+* 🧬 Neural architectures & research papers
+* 🔗 LLMs, agents & LangChain
+
+I'm less interested in memorizing every API and more interested in understanding the underlying ideas well enough to build with them.
+
+---
+
+## `> currently_exploring`
+
+```text
+AI / ML
+├── Machine Learning
+├── Neural Networks
+├── Reinforcement Learning
+├── LLMs & Agents
+└── Research Papers
+
+Engineering
+├── Systems Programming
+├── Go & Rust
+├── Distributed Systems
+├── Robotics
+└── Infrastructure
+
+Beyond Code
+├── Physics
+├── Mathematics
+├── Philosophy
+└── Game Development
+```
+
+> *"Stay curious. Explore deeply enough to understand. Build enough to find out."*
+
+---
 
 ## `> philosophy`
 
-```
-The world rewards people who solve problems.
-Not people who wait for permission.
-
-I don't have a formal degree.
-I have obsession, consistency, and shipping velocity.
-
-That's enough.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│       Explore continuously.                                  │
+│       Solve continuously.                                    │
+│                                                              │
+│       There is always another question worth asking,         │
+│       another system worth understanding,                    │
+│       and another problem worth solving.                     │
+│                                                              │
+│       I don't want to master one thing by ignoring           │
+│       everything else.                                       │
+│                                                              │
+│       I want to keep exploring — and keep building.          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## `> work_with_me`
 
-I love to work with like-minded people and businesses:
-- 🔧 **Full Stack Development** — web apps, APIs, dashboards
-- 🛍️ **Shopify Development** — custom themes & Liquid templates
-- 🤖 **AI Engineering** — integrations, fine-tuning, pipelines
-- 💡 **Consulting** — architecture, tech strategy
+I love working with people and businesses who have interesting problems worth solving:
+
+* 🔧 **Full Stack Development** — web apps, APIs, dashboards & platforms
+* 📱 **Cross-Platform Mobile** — modern mobile applications
+* 🤖 **AI Engineering** — LLMs, agents, integrations & pipelines
+* 📊 **Data & ML** — experimentation, analysis & intelligent systems
+* 💡 **Technical Consulting** — architecture, technology & product strategy
 
 📬 **[thehasnainizhar.com](https://thehasnainizhar.com)** · **[me@thehasnainizhar.com](mailto:me@thehasnainizhar.com)**
 
@@ -114,9 +205,9 @@ I love to work with like-minded people and businesses:
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:24243e,50:302b63,100:0f0c29\&height=120\&section=footer)
 
-*Building in public. Learning in public. Shipping constantly.*
+*Building in public. Learning in public. Exploring constantly.*
 
 ⭐ If something I built helped you — a star means the world.
 
