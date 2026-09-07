@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:3B2E5C,100:5C3B9E&height=200&section=header&text=Hey,%20I'm%20Hasnain%20Izhar%20👋&fontSize=42&fontColor=F5F3FF&fontAlpha=1.0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=8B5CF6\&center=true\&vCenter=true\&width=600\&lines=In+Love+with+Baby+Girl,+Code+and+Coffee.;Explore+continuously.+Solve+continuously.;Build.+Break.+Understand+Finally+Done.)](https://github.com/imhasnainizhar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=ebebeb\&center=true\&vCenter=true\&width=600\&lines=In+Love+with+Baby+Girl,+Code+and+Coffee.;Explore+continuously.+Solve+continuously.;Build.+Break.+Understand+Finally+Done.)](https://github.com/imhasnainizhar)
 
 [![X](https://img.shields.io/badge/X-111111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/thehasnainizhar)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/thehasnainizhar)
