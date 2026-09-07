@@ -53,32 +53,20 @@ That's the loop:
 
 ## `> tech_stack`
 
-### Languages
+### Languages I Love
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,python,go,dart&theme=dark" />
   <img src="https://img.shields.io/badge/Carbon-⚡_Exploring-1a1a2e?style=flat-square&logoColor=white" height="48"/>
 </p>
 
-### Frontend & Full Stack
+### UI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,figma&theme=dark" />
 </p>
 
-### Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,fastapi&theme=dark" />
-</p>
-
-### Databases & Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker&theme=dark" />
-</p>
-
-### AI / Data
+### AI Tooling
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
@@ -90,16 +78,16 @@ That's the loop:
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-### Mobile & Game Development
+### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,unreal&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,fastapi,mongodb,postgres&theme=dark" />
 </p>
 
-### Tooling
+### DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,grafana&theme=dark" />
 </p>
 
 ---
