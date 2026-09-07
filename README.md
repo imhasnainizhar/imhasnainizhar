@@ -20,11 +20,13 @@ const engineer = {
   location   : "Islamabad, Pakistan 🇵🇰",
   philosophy : "Explore continuously. Solve continuously.",
   education  : "Self-taught · A-Levels",
+
   currently  : [
     "building products",
     "exploring data science & ML",
     "learning systems & robotics"
   ],
+
   interests  : [
     "software",
     "AI/ML",
@@ -54,23 +56,50 @@ That's the loop:
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,python,cpp,go,dart,rust,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,python,go,dart&theme=dark" />
+  <img src="https://img.shields.io/badge/Carbon-⚡_Exploring-1a1a2e?style=flat-square&logoColor=white" height="48"/>
 </p>
 
-### Frameworks & Tools
+### Frontend & Full Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,docker,postgres,tensorflow,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,fastapi&theme=dark" />
+</p>
+
+### Databases & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker&theme=dark" />
 </p>
 
 ### AI / Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+### Mobile & Game Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,unreal&theme=dark" />
+</p>
+
+### Tooling
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" />
 </p>
 
 ---
@@ -84,7 +113,7 @@ That's the loop:
 │  🤖  AI / ML                   — models, agents & pipelines  │
 │  📊  Data Science              — data, analysis & learning   │
 │  ⚙️  Systems & Engineering     — low-level & infrastructure  │
-│  🎮  Gaming                    — enthusiast & curious dev    │
+│  🎮  Game Development          — Unreal & game technologies  │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -134,6 +163,7 @@ Currently diving deeper into:
 * 🤖 Reinforcement Learning
 * 🧬 Neural architectures & research papers
 * 🔗 LLMs, agents & LangChain
+* 🧠 Vector databases & semantic search with Pinecone
 
 I'm less interested in memorizing every API and more interested in understanding the underlying ideas well enough to build with them.
 
@@ -147,20 +177,26 @@ AI / ML
 ├── Neural Networks
 ├── Reinforcement Learning
 ├── LLMs & Agents
+├── Vector Search
 └── Research Papers
 
 Engineering
-├── Systems Programming
-├── Go & Rust
+├── Full Stack Systems
+├── Go & Backend Engineering
 ├── Distributed Systems
 ├── Robotics
 └── Infrastructure
+
+Creative Technology
+├── Cross-Platform Apps
+├── Unreal Engine
+└── Game Development
 
 Beyond Code
 ├── Physics
 ├── Mathematics
 ├── Philosophy
-└── Game Development
+└── Gaming
 ```
 
 > *"Stay curious. Explore deeply enough to understand. Build enough to find out."*
@@ -179,10 +215,9 @@ Beyond Code
 │       another system worth understanding,                    │
 │       and another problem worth solving.                     │
 │                                                              │
-│       I don't want to master one thing by ignoring           │
-│       everything else.                                       │
+│       I don't want to stop at what I already know.           │
 │                                                              │
-│       I want to keep exploring — and keep building.          │
+│       Explore → Understand → Build → Solve → Repeat.         │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
