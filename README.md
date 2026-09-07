@@ -81,7 +81,11 @@ That's the loop:
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,fastapi,mongodb,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 </p>
 
 ### DevOps
