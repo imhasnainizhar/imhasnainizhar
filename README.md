@@ -1,16 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:333333,100:666666&height=180&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=100:5C3B9E,50:3B2E5C,100:5C3B9E&height=210&section=header&opacity=100&text=Hey,%20I'm%20Hasnain%20Izhar%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer&descSize=18&descColor=D0D0D0&descAlignY=55)
 
-<h1 align="center">Hey, I'm Hasnain Izhar 👋</h1>
-
-<p align="center">
-  <strong>Full Stack + AI Engineer</strong>
-  <br/>
-  <sub>Explore continuously. Solve continuously.</sub>
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=6D28D9\&center=true\&vCenter=true\&width=600\&lines=In+Love+with+Baby+Girl,+Code+and+Coffee.;Explore+continuously.+Solve+continuously.;Build.+Break.+Understand+Finally+Done.)](https://github.com/imhasnainizhar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=E1306C\&center=true\&vCenter=true\&width=600\&lines=In+Love+with+Baby+Girl,+Code+and+Coffee.;Explore+continuously.+Solve+continuously.;Build.+Break.+Understand+Finally+Done.)](https://github.com/imhasnainizhar)
 
 [![X](https://img.shields.io/badge/X-111111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/thehasnainizhar)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/thehasnainizhar)
@@ -118,7 +110,7 @@ describes reality. Computer science is boolean logic.
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:111111,50:333333,100:666666\&height=120\&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=100:5C3B9E,50:3B2E5C,100:5C3B9E\&height=120\&section=footer)
 
 *Exploring. Building. Learning.*
 
