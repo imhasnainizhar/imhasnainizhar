@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:111111,50:333333,100:555555\&height=200\&section=header\&text=Hey,%20I'm%20Hasnain%20Izhar%20👋\&fontSize=42\&fontColor=ffffff\&fontAlpha=1.0)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:111111,50:333333,100:555555\&height=200\&section=header\&text=Hey,%20I'm%20Hasnain%20Izhar%20👋\&fontSize=42\&fontColor=8B5CF6\&fontAlpha=1.0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=600\&lines=Explore+continuously.+Solve+continuously.;In+Love+with+Code,+Coffee+and+Curiosity.;Build.+Break.+Understand.+Repeat.)](https://github.com/imhasnainizhar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=8B5CF6\&center=true\&vCenter=true\&width=600\&lines=In+Love+with+Baby+Girl,+Code+and+Coffee.;Explore+continuously.+Solve+continuously.;Build.+Break.+Understand+Finally+Done.)](https://github.com/imhasnainizhar)
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/thehasnainizhar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/thehasnainizhar)
-[![localhost](https://img.shields.io/badge/localhost-4285F4?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://thehasnainizhar.com)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/thehasnainizhar)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/thehasnainizhar)
+[![localhost](https://img.shields.io/badge/localhost-8B5CF6?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://thehasnainizhar.com)
 
 </div>
 
@@ -48,13 +48,13 @@ I love understanding how things work, building useful things, and following inte
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,python,go,dart&theme=dark" />
-  <img src="https://img.shields.io/badge/Carbon-⚡_Exploring-111111?style=for-the-badge&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Carbon-⚡_Exploring-8B5CF6?style=flat-square&logoColor=white" height="48"/>
 </p>
 
 ### UI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,figma,unreal&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,figma&theme=dark" />
 </p>
 
 ### AI Tooling
@@ -72,10 +72,9 @@ I love understanding how things work, building useful things, and following inte
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres&theme=dark" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=express,fastapi,mongodb,postgres&theme=dark" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### DevOps
