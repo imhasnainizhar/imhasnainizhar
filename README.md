@@ -12,13 +12,29 @@
 
 ---
 
-## `> whoami`
+> `whoami`
 
 ```ts
-const me = {
-  role: "Full Stack + AI Engineer",
-  approach: "Explore continuously. Solve continuously.",
-  currently: "building & learning"
+const engineer = {
+  identity   : "Full Stack + AI Engineer",
+  location   : "Islamabad, Pakistan 🇵🇰",
+  philosophy : "Explore continuously. Solve continuously.",
+  education  : "Self-taught · A-Levels",
+
+  currently  : [
+    "building products",
+    "exploring data science & ML",
+    "learning systems & robotics"
+  ],
+
+  interests  : [
+    "software",
+    "AI/ML",
+    "robotics",
+    "physics",
+    "philosophy",
+    "gaming"
+  ],
 };
 ```
 
