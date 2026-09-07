@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=100:5C3B9E,50:3B2E5C,100:5C3B9E&height=210&section=header&opacity=100&text=Hey,%20I'm%20Hasnain%20Izhar%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer&descSize=18&descColor=D0D0D0&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=100:5C3B9E,100:3B2E5C,100:5C3B9E&height=210&section=header&opacity=100&text=Hey,%20I'm%20Hasnain%20Izhar%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer&descSize=18&descColor=D0D0D0&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=E1306C\&center=true\&vCenter=true\&width=600\&lines=In+Love+with+Baby+Girl,+Code+and+Coffee.;Explore+continuously.+Solve+continuously.;Build.+Break.+Understand+Finally+Done.)](https://github.com/imhasnainizhar)
 
