@@ -82,7 +82,8 @@ That's the loop:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=express,fastify,mongodb,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=express,fastapi,mongodb,postgres&theme=dark" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 </p>
 
 ### DevOps
