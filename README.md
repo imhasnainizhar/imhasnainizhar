@@ -42,7 +42,7 @@ I love understanding how things work, building useful things, and following inte
 
 ---
 
-## `> tech_stack`
+## `> tech_stack_highlights`
 
 ### Languages I Love
 
