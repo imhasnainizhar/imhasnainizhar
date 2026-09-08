@@ -12,7 +12,7 @@
 
 ---
 
-## `> whoami`
+### `> whoami`
 
 ```ts
 const engineer = {
@@ -42,23 +42,23 @@ I love understanding how things work, building useful things, and following inte
 
 ---
 
-## `> tech_stack_highlights`
+### `> tech_stack_highlights`
 
-### Languages I Love
+#### Languages I Love
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,python,go,dart&theme=dark" />
   <img src="https://img.shields.io/badge/Carbon-⚡_Exploring-8B5CF6?style=flat-square&logoColor=white" height="48"/>
 </p>
 
-### UI
+#### UI UX & Gaming
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,figma&theme=dark" />
   <img src="https://skillicons.dev/icons?i=unrealengine&theme=dark" />
 </p>
 
-### AI Tooling
+#### AI Tooling
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
@@ -70,7 +70,7 @@ I love understanding how things work, building useful things, and following inte
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-### Backend
+#### Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
@@ -78,7 +78,7 @@ I love understanding how things work, building useful things, and following inte
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 </p>
 
-### DevOps
+#### DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,grafana&theme=dark" />
@@ -86,7 +86,7 @@ I love understanding how things work, building useful things, and following inte
 
 ---
 
-## `> loves_in_life`
+### `> loves_in_life`
 
 ```text
 Loving
@@ -98,7 +98,7 @@ Loving
 
 ---
 
-## `> philosophy`
+### `> philosophy`
 
 ```text
 I enjoy connecting ideas that normally live in different places. 
