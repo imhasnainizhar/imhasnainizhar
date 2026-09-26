@@ -48,7 +48,7 @@ I love understanding how things work, building useful things, and following inte
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,python,go,dart&theme=dark" />
-  <img src="https://img.shields.io/badge/Carbon-⚡_Exploring-8B5CF6?style=flat-square&logoColor=white" height="48"/>
+  <a href="https://github.com/carbon-language/carbon-lang"> <img src="https://img.shields.io/badge/Carbon-000000?style=for-the-badge&logo=carbon&logoColor=white" alt="Carbon" /> </a>
 </p>
 
 #### UI UX & Gaming
