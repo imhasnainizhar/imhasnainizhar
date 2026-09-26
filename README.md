@@ -55,7 +55,10 @@ I love understanding how things work, building useful things, and following inte
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,figma&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=unrealengine&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=unrealengine&theme=dark" />
+  <a href="https://penpot.app">
+  <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white" alt="Penpot" />
+  </a>
 </p>
 
 #### AI Tooling
