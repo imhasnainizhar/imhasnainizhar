@@ -16,7 +16,7 @@
 
 ```ts
 const whoami = () => {
-  identity   : "Full Stack + AI Engineer",
+  identity   : "Full Stack & AI Engineer",
   location   : "Islamabad, Pakistan 🇵🇰",
   philosophy : "I enjoy connecting ideas that normally live in different places.",
   education  : "Self-taught · A-Levels",
