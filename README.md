@@ -15,7 +15,7 @@
 ### `> whoami`
 
 ```ts
-const engineer = {
+const whoami = () => {
   identity   : "Full Stack + AI Engineer",
   location   : "Islamabad, Pakistan 🇵🇰",
   philosophy : "I enjoy connecting ideas that normally live in different places.",
