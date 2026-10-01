@@ -29,7 +29,7 @@ const whoami = () => {
 
   "love"  : [
     "My Baby Girl 🥰"
-  ]
+  ],
 
   interests  : [
     "software",
