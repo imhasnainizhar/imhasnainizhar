@@ -27,6 +27,10 @@ const whoami = () => {
     "learning systems & robotics"
   ],
 
+  "love"  : [
+    "My Baby Girl 🥰"
+  ]
+
   interests  : [
     "software",
     "AI/ML",
