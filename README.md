@@ -94,7 +94,7 @@ I love understanding how things work, building useful things, and following inte
 ```text
 Loving
 │
-├── 🥰 Life & Her
+├── 🥰 Life
 ├── 🧭 Exploration
 └── 🧠 Philosophy
 ```
