@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=100:369959,100:0F172A,50:369959&height=210&section=header&opacity=100&text=Hey,%20I'm%20Hasnain%20Izhar%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer&descSize=18&descColor=D0D0D0&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=369959\&center=true\&vCenter=true\&width=600\&lines=In+Love+with+Code+and+Coffee.;Keep+Exploring.+Keep+Designing.;Design.+Build.+Break.+Understand.)](https://github.com/imhasnainizhar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=369959\&center=true\&vCenter=true\&width=600\&lines=In+Love+with+Baby+Girl,+Code+and+Coffee.;Keep+Exploring.+Keep+Designing.;Design.+Build.+Break.+Understand.)](https://github.com/imhasnainizhar)
 
 [![X](https://img.shields.io/badge/X-111111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/thehasnainizhar)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/thehasnainizhar)
@@ -25,6 +25,10 @@ const whoami = () => {
     "building products",
     "exploring data science & ML",
     "learning systems & robotics"
+  ],
+
+  "love"  : [
+    "My Baby Girl 🥰"
   ],
 
   interests  : [
@@ -94,7 +98,7 @@ I love understanding how things work, building useful things, and following inte
 ```text
 Loving
 │
-├── 🥰 Life
+├── 🥰 Life & Her
 ├── 🧭 Exploration
 └── 🧠 Philosophy
 ```
