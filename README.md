@@ -65,7 +65,7 @@ I love understanding how things work, building useful things, and following inte
   </a>
 </p>
 
-#### AI Tooling
+#### AI/DS
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
@@ -77,7 +77,7 @@ I love understanding how things work, building useful things, and following inte
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-#### Backend
+#### Behind Curtains
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
