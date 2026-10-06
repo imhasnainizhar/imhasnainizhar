@@ -18,11 +18,11 @@
 const whoami = () => {
   identity   : "Full Stack & AI Engineer",
   location   : "Islamabad, Pakistan 🇵🇰",
-  philosophy : "I enjoy connecting ideas that normally live in different places.",
+  philosophy : "I love to be an übermensch where I step in",
   education  : "Self-taught · A-Levels",
 
   currently  : [
-    "building products",
+    "crafting products",
     "exploring data science & ML",
     "learning systems & robotics"
   ],
@@ -32,17 +32,15 @@ const whoami = () => {
   ],
 
   interests  : [
-    "software",
+    "gaming",
+    "coffee",
     "AI/ML",
     "robotics",
-    "physics",
-    "philosophy",
-    "gaming"
+    "physics & math",
+    "philosophy"
   ],
 };
 ```
-
-I love understanding how things work, building useful things, and following interesting questions wherever they lead.
 
 ---
 
@@ -108,7 +106,7 @@ Loving
 ### `> philosophy`
 
 ```text
-I enjoy connecting ideas that normally live in different places. 
+Selbstüberwindung · Sapere aude
 
 Math is a language. Physics is where that language
 describes reality. Computer science is boolean logic.
