@@ -32,12 +32,11 @@ const whoami = () => {
   ],
 
   interests  : [
-    "gaming",
-    "coffee",
-    "AI/ML",
-    "robotics",
-    "physics & math",
-    "philosophy"
+    "🎮 gaming",
+    "☕ coffee",
+    "👾 ai/ml",
+    "🛰️ physics & math",
+    "🦉 philosophy"
   ],
 };
 ```
