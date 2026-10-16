@@ -114,10 +114,4 @@ describes reality. Computer science is boolean logic.
 
 ---
 
-<div align="center">
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving\&color=100:369959,50:0F172A,100:369959\&height=120\&section=footer)
-
-*Exploring. Building. Learning.*
-
-</div>
