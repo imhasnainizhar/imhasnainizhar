@@ -48,8 +48,10 @@ const whoami = () => {
 #### Languages I Love
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,python,go,dart&theme=dark" />
-  <a href="https://github.com/carbon-language/carbon-lang"> <img src="https://img.shields.io/badge/Carbon-000000?style=for-the-badge&logo=carbon&logoColor=white" alt="Carbon" /> </a>
+  <img src="https://skillicons.dev/icons?i=ts,python,dart&theme=dark" />
+  <img src="https://img.shields.io/badge/Go-FFFFFF?style=for-the-badge&logo=go&logoColor=black" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <a href="https://github.com/carbon-language/carbon-lang"><img src="https://img.shields.io/badge/Carbon-000000?style=for-the-badge&logo=carbon&logoColor=white" alt="Carbon" /></a>
 </p>
 
 #### UI UX & Gaming
