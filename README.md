@@ -108,4 +108,4 @@ describes reality. Computer science is boolean logic.
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=100:369959,50:0F172A,100:369959\&height=120\&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=100:f7dbb1,50:EC9B48\&height=120\&section=footer)
