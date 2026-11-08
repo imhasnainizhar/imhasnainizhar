@@ -1,12 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=100:369959,100:0F172A,50:369959&height=210&section=header&opacity=100&text=Hey%20There,%20Meet%20Hani%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=A%20Full%20Stack%20Crafter&descSize=18&descColor=D0D0D0&descAlignY=55)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=369959\&center=true\&vCenter=true\&width=600\&lines=In+Love+with+Code+and+Coffee.;Keep+Exploring.+Keep+Designing.;Design.+Build.+Break.+Understand.)](https://github.com/imhasnainizhar)
-
-[![X](https://img.shields.io/badge/X-111111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/thehasnainizhar)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/thehasnainizhar)
-[![localhost](https://img.shields.io/badge/localhost-8B5CF6?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://thehasnainizhar.com)
+<img width="2048" height="768" alt="Retro Developer Desk Collage" src="https://github.com/user-attachments/assets/5ce2884a-4d5c-41ba-ae3a-b836d778d1d7" />
 
 </div>
 
